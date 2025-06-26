@@ -8,3 +8,10 @@ Requirement Analysis is the process of identifying, gathering, and defining what
 - 🎯 **Avoids scope creep** by clearly defining boundaries early.
 - 🧠 **Reduces misunderstanding** between developers and stakeholders.
 - 🚀 **Ensures successful delivery** of a system that meets expectations.
+## Key Activities in Requirement Analysis
+
+-  **Requirement Gathering**: Collecting information via interviews, surveys, etc.
+-  **Requirement Elicitation**: Refining and discovering hidden needs through brainstorming.
+-  **Requirement Documentation**: Creating detailed specs, user stories, and use cases.
+-  **Requirement Analysis and Modeling**: Structuring and validating requirements visually or logically.
+-  **Requirement Validation**: Getting stakeholder confirmation and approval.
