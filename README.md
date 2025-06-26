@@ -32,3 +32,8 @@ Examples:
 - Load time should be under 2 seconds
 - Support for 10,000 users concurrently
 - High-level security with HTTPS and encryption
+## Use Case Diagrams
+
+Use Case Diagrams show how users (actors) interact with the system. They help in understanding system functionalities and user roles.
+
+![Booking System Use Case Diagram](alx-booking-uc.png)
